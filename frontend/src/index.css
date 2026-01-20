@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can keep other custom global styles below if you have any, 
+   but for this code, these 3 lines are all you need! */
